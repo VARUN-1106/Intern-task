@@ -1,2 +1,2 @@
 # Intern-task
-Internship practice repository for Git and GitHub tasks
+This repository is created as part of my internship training to practice Git, GitHub,and version control basics 
